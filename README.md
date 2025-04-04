@@ -1,5 +1,18 @@
 # 🧊 Early Cryo Bird Injections - APC-based DLL & Shellcode Injection via Pre-Frozen Job Objects
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Theoretical Foundations](#theoretical-foundations)
+  - [Windows Job Objects](#windows-job-objects)
+  - [Asynchronous Procedure Calls (APC)](#asynchronous-procedure-calls-apc)
+- [Early Cryo Bird Injection](#early-cryo-bird-injection)
+  - [DLL Injection](#early-cryo-bird-dll-injection)
+  - [Shellcode Injection](#early-cryo-bird-shellcode-injection)
+- [Detection & EDR Evaluation](#early-bird-cryo-injections-versus-edrs)
+- [Conclusion](#conclusion)
+- [References](#references)
+
 
 ## 📘 Introduction
 

@@ -12,8 +12,8 @@
   - [DLL Injection](##early-cryo-bird-dll-injection)
   - [Shellcode Injection](##early-cryo-bird-shellcode-injection)
 - [Detection & EDR Evaluation](#early-bird-cryo-injections-versus-edrs)
-- [Conclusion](#conclusion)
-- [References](#references)
+- [Conclusion](#Conclusion)
+- [References](#References)
 
 
 ## 📘 Introduction

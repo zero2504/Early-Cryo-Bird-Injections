@@ -325,7 +325,13 @@ Cortex's behavioral detection is very solid. With enough experimentation and eva
 
 ## 👻 Trend Vision One
 
-Trend Vision One behaved similarly to Defender ATP **no detections** were triggered for either injection method. Both techniques went completely unnoticed
+Trend Vision One behaved similarly to Defender ATP **no detections** were triggered for either injection method. Both techniques went completely unnoticed.
+
+**DLL-Injection:**
+![trend2](https://github.com/user-attachments/assets/3f1765fc-3ee3-4517-987b-5258ccb7cfc6)
+
+**Shellcode Injection:**
+![Trend1](https://github.com/user-attachments/assets/414be52b-2cf4-46e1-9dfe-90e4278dcc26)
 
 
 # 🧠 Conclusion
